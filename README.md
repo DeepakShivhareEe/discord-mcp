@@ -348,5 +348,5 @@ Scripts: `npm start`, `npm run presence`, `npm run audit`, `npm test`, `npm run 
 ---
 
 ## License
-
+ 
 No license file is included yet. Add one before publishing — MIT is the common choice for MCP servers. Until then, all rights are reserved by default.
